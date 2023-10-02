@@ -1,6 +1,11 @@
 // index.scss
-$primary-color: #3498db;
+$primary-color: white;
 
 body {
   background-color: $primary-color;
 }
+
+@import 'header';
+@import 'footer';
+
+
